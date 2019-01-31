@@ -2,7 +2,6 @@ package swarm
 
 import (
 	"context"
-	"fmt"
 	"os"
 	"strconv"
 	"sync"
